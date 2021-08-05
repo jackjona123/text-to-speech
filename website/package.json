@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Jack Jona",
   "dependencies": {
+    "request": "^2.88.0",
     "axios": "^0.21.1",
     "gatsby": "^3.8.0",
     "gatsby-cli": "^3.8.0",
