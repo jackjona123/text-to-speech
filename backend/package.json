@@ -1,0 +1,9 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "text-to-speech backend",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

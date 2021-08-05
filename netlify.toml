@@ -1,0 +1,4 @@
+[build]
+  base = "website"
+[functions]
+  directory = "backend"
