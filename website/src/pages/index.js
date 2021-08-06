@@ -6,7 +6,7 @@ import greet from '../lib/greeting'
 import axios from 'axios'
 
 // TTS API
-const API = 'https://tts.jackjona.live/'
+const API = 'https://tts-api.jackjona.live/.netlify/functions/index'
 
 // How many seconds a user must wait in an error.
 const COOLDOWN = 5

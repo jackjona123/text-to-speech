@@ -11,7 +11,7 @@ const request = require('request')
 exports.tts = (req, res) => {
     // Enable CORS
     res.set('Access-Control-Allow-Origin', 'https://tts.jackjona.live')
-    res.set('Access-Control-Allow-Origin', 'https://tts.jackjona.live')
+    res.set('Access-Control-Allow-Origin', 'https://www.tts.jackjona.live')
     res.set('Access-Control-Allow-Methods', 'GET, POST')
     res.set('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With')
 
